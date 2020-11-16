@@ -5,7 +5,7 @@ The dbx is a full database toolkit for Go.
 
 ## Installation
 
-	go get wudi.io/dbx
+	go get -u github.com/wudi/dbx
   
 ## License
 
